@@ -226,7 +226,7 @@ Pré-requisitos: Python 3.10 ou superior (testado no 3.14) e uma chave gratuita 
 <https://aistudio.google.com/apikey>.
 
 ```bash
-git clone <url-do-repositorio>
+git clone [<url-do-repositorio>](https://github.com/pperazzoli/Desenvolvimento-de-Data-Driven-TP3)
 cd tp3
 python -m venv .venv
 ```
